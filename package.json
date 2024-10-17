@@ -1,0 +1,17 @@
+{
+	"name": "to-do-list",
+	"version": "2.0.0",
+	"description": "to-do-list (lista de tareas)",
+	"type": "module",
+	"main": "src/app.js",
+	"scripts": {
+		"start": "node src/app.js",
+		"dev": "node --watch src/app.js"
+	},
+	"keywords": [],
+	"author": "Dardo Santana, Lautaro de la Mano, Fernando Barrionuevo y Mario Aguilar",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.21.1"
+	}
+}

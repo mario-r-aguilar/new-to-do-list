@@ -12,6 +12,8 @@
 	"author": "Dardo Santana, Lautaro de la Mano, Fernando Barrionuevo y Mario Aguilar",
 	"license": "ISC",
 	"dependencies": {
-		"express": "^4.21.1"
+		"dotenv": "^16.4.5",
+		"express": "^4.21.1",
+		"to-do-list": "file:"
 	}
 }
